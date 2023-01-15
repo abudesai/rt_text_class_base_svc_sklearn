@@ -7,12 +7,12 @@ This project implements the specifications of [ReadyTensor](https://readytensor.
 All python scripts can be found within `./src/` directory.
 src
 ├──backend
-	├── preprocess.py # Preprocess text column using scikit-learn pipeline
-	├── constants.py # Containing all directory and utility functions
-	├── train.py # Main script for training. Training Entry point
-	├── predict # Main script for prediction. Testing entry point
+│   ├── preprocess.py # Preprocess text column using scikit-learn pipeline
+│   ├── constants.py # Containing all directory and utility functions
+│   ├── train.py # Main script for training. Training Entry point
+│   └── predict # Main script for prediction. Testing entry point
 ├──frontend
-	├── preprocess.py # Preprocess text column using scikit-learn pipeline
+│   └── preprocess.py # Preprocess text column using scikit-learn pipeline
 
 ## How to run
 
