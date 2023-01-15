@@ -5,6 +5,8 @@
 This project implements the specifications of [ReadyTensor](https://readytensor.com/).
 
 All python scripts can be found within `./src/` directory.
+
+```
 src
 ├──backend
 │   ├── preprocess.py # Preprocess text column using scikit-learn pipeline
@@ -13,6 +15,8 @@ src
 │   └── predict # Main script for prediction. Testing entry point
 ├──frontend
 │   └── preprocess.py # Preprocess text column using scikit-learn pipeline
+
+```
 
 ## How to run
 
